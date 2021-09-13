@@ -21,9 +21,9 @@
 title: DataXhip
 email: kindi.balde@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  With Open and Synthetic Data, we aim to build platforms that accelerate innovation to efficient data solutions.
+  With Synthetic Data, we aim to build platforms that accelerate innovation to efficient data solutions.
   
-  “We don’t need your private data, we already know who you are”
+  “We don’t need your private data, we already know what you got”
 
  
 baseurl: "" # the subpath of your site, e.g. /blog
