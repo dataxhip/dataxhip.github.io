@@ -21,7 +21,7 @@ DataXhip mixes Open Data and Synthetic Data to propose data solution related to 
 The project aim at leveraging on containerized solutions with Docker, their orchestration and deployemnt with kubernetes or Docker-Compose. Ansible,  an automation and orchestration technology helps pushing this project to another level.
 
 ## IA-Engine
-This project is all about nurturing my knowledges in Artificial Intelligence. I am currently enrolled in many online classes, Like [OpenClassRoom IA Engineer class] (https://openclassrooms.com/fr/paths/188-ingenieur-ia)  and [DeepLearning.ai] (https://www.coursera.org/specializations/deep-learning?utm_source=gg&utm_medium=sem&utm_campaign=17-DeepLearning-ROW&utm_content=17-DeepLearning-ROW&campaignid=6465471773&adgroupid=77656689495&device=c&keyword=coursera%20deep%20learning%20specialization&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=506750650449&hide_mobile_promo&gclid=CjwKCAjwqeWKBhBFEiwABo_XBqPiZPd1fTf-CnKoujsLOOVDbzf66kkKQXZ23ujMI1pi9Zo0swvRLBoCJMsQAvD_BwE). Here below, I will tag all publications that I will produce through this process.
+This project is all about nurturing my knowledges in Artificial Intelligence. I am currently enrolled in many online classes, Like OpenClassRoom IA Engineer class and DeepLearning.ai course on Coursera. Here below, I will tag all publications that I will produce through this process.
 
 ## PRAIDIC
 PRAIDIC uses AI to track and predict financial market asset prices. 
