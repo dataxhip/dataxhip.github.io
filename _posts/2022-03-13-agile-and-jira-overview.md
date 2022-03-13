@@ -65,7 +65,7 @@ A single project can multiple boards!!!
 * simplified wk is Jira managed wk
 * If **Set Resolution** is checked, Jira considers the issue resolved (closed)
 
-The [Lab 2] (https://d3c33hcgiwev3.cloudfront.net/nRITct3lTsGSE3Ld5c7BBg_f4edd238124048709624259d9dd7b9f1_lab1_03_configure_board.pdf?Expires=1647302400&Signature=bHjhsn7XDaWru4P3kBpBQaKh6UQZbQJkpMEL1iZYuMHz1suXQXMu~nxmQQihAgSOpk8EyQM45gVbxgah3IIsPWAwZMUNyhaEMkBZaRDNauY5HDwdiQ7lp--dfj0Q6pQV~m1jXT4zh9Ycf6FWS6pPJ3Ujyp9IDTYhJ4NSYATCxgA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+The [Lab 2](https://d3c33hcgiwev3.cloudfront.net/nRITct3lTsGSE3Ld5c7BBg_f4edd238124048709624259d9dd7b9f1_lab1_03_configure_board.pdf?Expires=1647302400&Signature=bHjhsn7XDaWru4P3kBpBQaKh6UQZbQJkpMEL1iZYuMHz1suXQXMu~nxmQQihAgSOpk8EyQM45gVbxgah3IIsPWAwZMUNyhaEMkBZaRDNauY5HDwdiQ7lp--dfj0Q6pQV~m1jXT4zh9Ycf6FWS6pPJ3Ujyp9IDTYhJ4NSYATCxgA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 And still using the same Login to Agile [Atlassian cloud site](https://www.atlassian.com/software/jira/free?utm_source=coursera&utm_medium=jira&utm_campaign=agile)
 
