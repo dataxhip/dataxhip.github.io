@@ -1,4 +1,4 @@
-# Oozie Overview and foundation
+# Oozie Overview and Quick start
 
 
 Oozie is a workflow scheduler system to manage Apache Hadoop jobs.
