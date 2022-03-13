@@ -40,7 +40,7 @@ oozie job -info 14-20090525161321-oozie-tucu
 ```
 
 
-## Some more pratical examples
+## Some more practical examples
 
 Considering that we already have Oozie configuration file, the `oozie-examples.tar.gz`, we can extract it
 
