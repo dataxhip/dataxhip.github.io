@@ -42,7 +42,7 @@ Tool to work with Agile approach. It is build in hierachy.
 * At the issue level, inside a project => An issue is a collection of work item. An Issue could be divided into many items to work on.
 
 
-The [Lab](https://d3c33hcgiwev3.cloudfront.net/rFbCopCERZ-WwqKQhBWfSg_219a11c2df804eec96f3c29362943ef1_lab1_02_first_jira_company_managed.pdf?Expires=1647302400&Signature=OP9fInXIbAh~alTnkq322hDDCQRO4LbZgV1JSMIuKOB~D0le~N14OfqQqZ3Z6n-s4YYFEkwMPKX2Y~pxTCLTiPpfAW8woIqLWcW6QVlQO1J~f7vEBTKWjfBPOyGJ-Nn1W64UnSXDBnUQhMPGYM2tUIMeAI8YSs~Ghs3WkVRw9iY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A) file to follow up and do the exercise.
+The [Lab 1](https://d3c33hcgiwev3.cloudfront.net/rFbCopCERZ-WwqKQhBWfSg_219a11c2df804eec96f3c29362943ef1_lab1_02_first_jira_company_managed.pdf?Expires=1647302400&Signature=OP9fInXIbAh~alTnkq322hDDCQRO4LbZgV1JSMIuKOB~D0le~N14OfqQqZ3Z6n-s4YYFEkwMPKX2Y~pxTCLTiPpfAW8woIqLWcW6QVlQO1J~f7vEBTKWjfBPOyGJ-Nn1W64UnSXDBnUQhMPGYM2tUIMeAI8YSs~Ghs3WkVRw9iY_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A) file to follow up and do the exercise.
 
 
 Log in to Agile [Atlassian cloud site](https://www.atlassian.com/software/jira/free?utm_source=coursera&utm_medium=jira&utm_campaign=agile)
@@ -65,13 +65,12 @@ A single project can multiple boards!!!
 * simplified wk is Jira managed wk
 * If **Set Resolution** is checked, Jira considers the issue resolved (closed)
 
-The Lab(https://d3c33hcgiwev3.cloudfront.net/nRITct3lTsGSE3Ld5c7BBg_f4edd238124048709624259d9dd7b9f1_lab1_03_configure_board.pdf?Expires=1647302400&Signature=bHjhsn7XDaWru4P3kBpBQaKh6UQZbQJkpMEL1iZYuMHz1suXQXMu~nxmQQihAgSOpk8EyQM45gVbxgah3IIsPWAwZMUNyhaEMkBZaRDNauY5HDwdiQ7lp--dfj0Q6pQV~m1jXT4zh9Ycf6FWS6pPJ3Ujyp9IDTYhJ4NSYATCxgA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+The [Lab 2] (https://d3c33hcgiwev3.cloudfront.net/nRITct3lTsGSE3Ld5c7BBg_f4edd238124048709624259d9dd7b9f1_lab1_03_configure_board.pdf?Expires=1647302400&Signature=bHjhsn7XDaWru4P3kBpBQaKh6UQZbQJkpMEL1iZYuMHz1suXQXMu~nxmQQihAgSOpk8EyQM45gVbxgah3IIsPWAwZMUNyhaEMkBZaRDNauY5HDwdiQ7lp--dfj0Q6pQV~m1jXT4zh9Ycf6FWS6pPJ3Ujyp9IDTYhJ4NSYATCxgA_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
 
 And still using the same Login to Agile [Atlassian cloud site](https://www.atlassian.com/software/jira/free?utm_source=coursera&utm_medium=jira&utm_campaign=agile)
 
 
-Login URL for next time :
-https://dataxhip.atlassian.net/jira/software/c/projects/PROJ/boards/2?selectedIssue=PROJ-2
+[Login URL for next time](https://dataxhip.atlassian.net/jira/software/c/projects/PROJ/boards/2?selectedIssue=PROJ-2)
 
 And you review all exercises.
 
