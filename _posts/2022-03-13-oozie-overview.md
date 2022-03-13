@@ -93,7 +93,7 @@ To check status from the Oozie Web Console, point your browser to http://<Oozie_
 [Here Link to configure a Spark Job with Oozie](https://docs.datafabric.hpe.com/62/Oozie/RunSparkJobswithOozie.html)
 
 
-[Here we can more command line tols for Oozie] https://oozie.apache.org/docs/3.1.3-incubating/DG_CommandLineTool.html
+[Here we can more command line tols for Oozie](https://oozie.apache.org/docs/3.1.3-incubating/DG_CommandLineTool.html)
 
 
 [Cloudera Link to configure Oozie on a Secured Cluster](https://docs.cloudera.com/runtime/7.2.8/configuring-oozie/oozie-managing-hadoop-jobs.pdf)
